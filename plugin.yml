@@ -1,0 +1,9 @@
+name: SimplePrefix
+main: com.flabaliki.simpleprefix.SimplePrefix
+version: 2.5.1
+api-version: 1.13
+softdepend: [Vault]
+commands:
+    spr:
+        description: Multiple commands, use '/spr help' to see all.
+        usage: "/spr help"
